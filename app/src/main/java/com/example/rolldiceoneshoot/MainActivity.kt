@@ -44,6 +44,7 @@ class MainActivity : AppCompatActivity() {
             val randomNumber = (1..6).random()
             println(randomNumber)
             return randomNumber
+
         }
 
     }
